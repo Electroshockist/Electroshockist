@@ -1,0 +1,14 @@
+:root {
+    /* --clr-primary-1: hsl(151, 67%, 72%);
+    --clr-primary-2: hsl(122, 100%, 79%);
+    --clr-primary-3: hsl(113, 100%, 83%);
+    --clr-primary-4: hsl(99, 100%, 86%);
+    --clr-primary-5: hsl(68, 53%, 92%); */
+
+    --clr-primary: white;
+    --clr-secondary: black;
+}
+
+html {
+    background-color: var(--clr-primary);
+}
